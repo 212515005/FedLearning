@@ -1,0 +1,1 @@
+voici la structure de dossier associée aux tests pour la détection d'anomalie. Les sources des données pour chacun des tests sont disponbiles dans le readme du github.

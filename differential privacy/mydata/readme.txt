@@ -1,0 +1,1 @@
+voici la structure de dossier associée aux tests pour la differential privacy. Les sources des données sont disponbiles dans le readme du github.
